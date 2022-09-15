@@ -11,9 +11,13 @@ using namespace std;
 
 int main() {
     
+    // print header
+    cout << "DNA Profiling" << endl;
+    cout << "=============" << endl;
+    cout << endl;
     
     return 0;
 }
- // bruh when will it work 
+ 
 
  
